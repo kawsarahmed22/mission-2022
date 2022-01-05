@@ -1,5 +1,6 @@
 body {
     margin: 0;
+    font-family: 'Poppins', sans-serif;
 }
 a {
     text-decoration: none;
@@ -42,4 +43,32 @@ h1 {
 
 .half-width img {
     width: 50%;
+}
+
+.my-mission-2022 h1 {
+    text-align: center;
+    padding-bottom: 20px;
+}
+
+.my-mission-content img {
+    width: 40%;
+}
+
+.mission,
+.vission,
+.goals {
+    padding: 0 3%;
+    margin-left: 2%;
+    margin-right: 2%;
+}
+
+
+.mission {
+    background-color: #EDF5F6;
+}
+.vission {
+    background-color: #FFEEEE;
+}
+.goals {
+    background-color: #FFF4D6;
 }
