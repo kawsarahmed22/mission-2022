@@ -73,30 +73,9 @@ h1 {
     background-color: #FFF4D6;
 }
 
-.develop-left{
-    width: 40%;
-    padding-left: 5%;
-}
-
-.develop-right {
-    width: 40%;
-    padding-left: 5%;
-}
 .develop-left img {
     width: 80%;
 }
-
-.gloval-comunity-left {
-    width: 40%;
-    padding-left: 5%;
-}
-
-.gloval-comunity-right {
-    width: 40%;
-    padding-left: 5%;
-}
-
-
 .gloval-comunity-right img {
     width: 70%;
 }
