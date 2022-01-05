@@ -1,0 +1,45 @@
+body {
+    margin: 0;
+}
+a {
+    text-decoration: none;
+}
+.flexible-container {
+    display: flex;
+    margin-bottom: 100px;
+}
+.orange-color {
+    color: #ffa500;
+}
+.link-button {
+    background-image: linear-gradient(#ff6347, #ffa500);
+    padding: 10px 20px;
+    color: #ffffff;
+}
+
+h1 {
+    font-size: 40px;
+    margin: 0;
+}
+
+.header-area {
+    padding-top: 20px;
+}
+.header-title {
+    border-left: 4px solid;
+    border-image: linear-gradient(#ff6347, #ffa500);
+    border-image-slice: 1;
+    padding-left: 2%;
+}
+.half-width {
+    width: 50%;
+    padding-left: 5%;
+}
+
+.half-width p{
+    padding-bottom: 10px;
+}
+
+.half-width img {
+    width: 50%;
+}
