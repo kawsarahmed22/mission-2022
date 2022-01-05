@@ -72,3 +72,14 @@ h1 {
 .goals {
     background-color: #FFF4D6;
 }
+
+.develop-left{
+    margin-left: 2%;
+}
+
+.develop-right {
+    margin-right: 2%;
+}
+.develop-left img {
+    width: 80%;
+}
