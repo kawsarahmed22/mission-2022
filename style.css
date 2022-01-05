@@ -76,6 +76,14 @@ h1 {
 .develop-left img {
     width: 80%;
 }
+
 .gloval-comunity-right img {
     width: 70%;
+}
+
+.footer-area {
+    text-align: center;
+    padding: 20px;
+    background-color:#0B0D17;
+    color: #ffffff;
 }
